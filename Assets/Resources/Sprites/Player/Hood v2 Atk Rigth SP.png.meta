@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 4278d8fd28e0a4bd29030a65d4c82619
+timeCreated: 1501188807
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hood v2 Atk Rigth SP_0
+    21300002: Hood v2 Atk Rigth SP_1
+    21300004: Hood v2 Atk Rigth SP_2
+    21300006: Hood v2 Atk Rigth SP_3
+    21300008: Hood v2 Atk Rigth SP_4
+    21300010: Hood v2 Atk Rigth SP_5
+    21300012: Hood v2 Atk Rigth SP_6
+    21300014: Hood v2 Atk Rigth SP_7
+    21300016: Hood v2 Atk Rigth SP_8
+    21300018: Hood v2 Atk Rigth SP_9
+    21300020: Hood v2 Atk Rigth SP_10
+    21300022: Hood v2 Atk Rigth SP_11
+    21300024: Hood v2 Atk Rigth SP_12
+    21300026: Hood v2 Atk Rigth SP_13
+    21300028: Hood v2 Atk Rigth SP_14
+    21300030: Hood v2 Atk Rigth SP_15
+    21300032: Hood v2 Atk Rigth SP_16
+    21300034: Hood v2 Atk Rigth SP_17
+    21300036: Hood v2 Atk Rigth SP_18
+    21300038: Hood v2 Atk Rigth SP_19
+    21300040: Hood v2 Atk Rigth SP_20
+    21300042: Hood v2 Atk Rigth SP_21
+    21300044: Hood v2 Atk Rigth SP_22
+    21300046: Hood v2 Atk Rigth SP_23
+    21300048: Hood v2 Atk Rigth SP_24
+    21300050: Hood v2 Atk Rigth SP_25
+    21300052: Hood v2 Atk Rigth SP_26
+    21300054: Hood v2 Atk Rigth SP_27
+    21300056: Hood v2 Atk Rigth SP_28
+    21300058: Hood v2 Atk Rigth SP_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 286
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_3
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_4
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_5
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 0
+        width: 286
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_6
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 0
+        width: 286
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_7
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_8
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_9
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 0
+        width: 286
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_10
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_11
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_12
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_13
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_14
+      rect:
+        serializedVersion: 2
+        x: 4028
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hood v2 Atk Rigth SP_15
+      rect:
+        serializedVersion: 2
+        x: 4315
+        y: 0
+        width: 286.375
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

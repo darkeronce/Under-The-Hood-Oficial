@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: c3798ceaaa1f11a4ca08668deb53b501
+timeCreated: 1501792329
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "sprite-sheet-ara\xF1a-bb_0"
+    21300002: "sprite-sheet-ara\xF1a-bb_1"
+    21300004: "sprite-sheet-ara\xF1a-bb_2"
+    21300006: "sprite-sheet-ara\xF1a-bb_3"
+    21300008: "sprite-sheet-ara\xF1a-bb_4"
+    21300010: "sprite-sheet-ara\xF1a-bb_5"
+    21300012: "sprite-sheet-ara\xF1a-bb_6"
+    21300014: "sprite-sheet-ara\xF1a-bb_7"
+    21300016: "sprite-sheet-ara\xF1a-bb_8"
+    21300018: "sprite-sheet-ara\xF1a-bb_9"
+    21300020: "sprite-sheet-ara\xF1a-bb_10"
+    21300022: "sprite-sheet-ara\xF1a-bb_11"
+    21300024: "sprite-sheet-ara\xF1a-bb_12"
+    21300026: "sprite-sheet-ara\xF1a-bb_13"
+    21300028: "sprite-sheet-ara\xF1a-bb_14"
+    21300030: "sprite-sheet-ara\xF1a-bb_15"
+    21300032: "sprite-sheet-ara\xF1a-bb_16"
+    21300034: "sprite-sheet-ara\xF1a-bb_17"
+    21300036: "sprite-sheet-ara\xF1a-bb_18"
+    21300038: "sprite-sheet-ara\xF1a-bb_19"
+    21300040: "sprite-sheet-ara\xF1a-bb_20"
+    21300042: "sprite-sheet-ara\xF1a-bb_21"
+    21300044: "sprite-sheet-ara\xF1a-bb_22"
+    21300046: "sprite-sheet-ara\xF1a-bb_23"
+    21300048: "sprite-sheet-ara\xF1a-bb_24"
+    21300050: "sprite-sheet-ara\xF1a-bb_25"
+    21300052: "sprite-sheet-ara\xF1a-bb_26"
+    21300054: "sprite-sheet-ara\xF1a-bb_27"
+    21300056: "sprite-sheet-ara\xF1a-bb_28"
+    21300058: "sprite-sheet-ara\xF1a-bb_29"
+    21300060: "sprite-sheet-ara\xF1a-bb_30"
+    21300062: "sprite-sheet-ara\xF1a-bb_31"
+    21300064: "sprite-sheet-ara\xF1a-bb_32"
+    21300066: "sprite-sheet-ara\xF1a-bb_33"
+    21300068: "sprite-sheet-ara\xF1a-bb_34"
+    21300070: "sprite-sheet-ara\xF1a-bb_35"
+    21300072: "sprite-sheet-ara\xF1a-bb_36"
+    21300074: "sprite-sheet-ara\xF1a-bb_37"
+    21300076: "sprite-sheet-ara\xF1a-bb_38"
+    21300078: "sprite-sheet-ara\xF1a-bb_39"
+    21300080: "sprite-sheet-ara\xF1a-bb_40"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_0"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 885
+        width: 105
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_1"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 885
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_2"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 888
+        width: 105
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_3"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 882
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_4"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 882
+        width: 105
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_5"
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 882
+        width: 114
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_6"
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 882
+        width: 105
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_7"
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 882
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_8"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 735
+        width: 105
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_9"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 738
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_10"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 741
+        width: 105
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_11"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 741
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_12"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 735
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_13"
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 735
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_14"
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 735
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_15"
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 735
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_16"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 576
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_17"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 576
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_18"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 576
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_19"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 576
+        width: 111
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_20"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 579
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_21"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 573
+        width: 105
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_22"
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 570
+        width: 108
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_23"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 573
+        width: 108
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_24"
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 576
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_25"
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 585
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_26"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 426
+        width: 96
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_27"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 426
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_28"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 429
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_29"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 429
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_30"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 429
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_31"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 264
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_32"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 261
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_33"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 261
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_34"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 249
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_35"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 249
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_36"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 255
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_37"
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 261
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_38"
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 258
+        width: 84
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_39"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 255
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite-sheet-ara\xF1a-bb_40"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
